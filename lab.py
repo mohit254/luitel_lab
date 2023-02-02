@@ -31,7 +31,7 @@ lab_member_2 = Image.open("images/sample_image2.jpg")
 
 
 # --- HEADER SECTION ---
-col1, col2 = st.columns((2,1), gap="small")
+col1, col2 = st.columns((2,1))
 with col2:
     st.image(microscope, width=230)
 
