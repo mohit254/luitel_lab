@@ -127,7 +127,7 @@ ongoing_research_activities = """
 """
 
 what_you_can_expect_from_me = """
-At the Luitel lab, our aim is to cultivate an environment that nurtures your growth and development as a researcher. 
+Our aim is to cultivate an environment that nurtures your growth and development as a researcher. 
 As your advisor, I am dedicated to supporting you on your academic journey and helping you achieve your goals. 
 **Here's what you can expect from me:**
 
